@@ -5,3 +5,5 @@ This repository is about to learn react small project at beginner level.
 - React Fiber- git documents (https://github.com/acdlite/react-fiber-architecture)
 - Hooks (useState, useCallBack, useref)
 - Copy to Clipboard.
+- React router DOM - (Link, NavLink)
+- RouterProvider, Outlet, useParams.
